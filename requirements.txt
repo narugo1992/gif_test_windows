@@ -1,0 +1,12 @@
+hbutils>=0.9.3
+pillow
+numpy
+tqdm
+pandas
+dghs-imgutils>=0.2.6
+requests
+pixivpy3
+cloudscraper
+pyquery
+xmltodict
+huggingface_hub>=0.14.0
